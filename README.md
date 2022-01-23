@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/upendra-yadav-50b06018b/"> </a>
-  <a href="mailto:yupendra2000@gmail.com"> <img src="https://img.shields.io/badge/-upendra%40gmail.com-red?logo=gmail&logoColor=white" alt="upendrayadav" />  </a> 
+  <a href="mailto:yupendra2000@gmail.com"> <img src="https://img.shields.io/badge/-yupendra2000%40gmail.com-red?logo=gmail&logoColor=white" alt="upendrayadav" />  </a> 
   <!-- <a href="https://instagram.com/siddhi_jhunjhunwala_1307"><img src="https://img.shields.io/badge/-siddhi__jhunjhunwala__1307-4f58ca?logo=instagram&logoColor=white"             alt="siddhijhunjhunwala" />  </a> -->
    <!-- <img src="https://komarev.com/ghpvc/?username=siddhijhunjhunwala&label=Profile%20views&color=0e75b6&style=flat" alt="siddhijhunjhunwala" />  
 </p> -->
